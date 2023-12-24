@@ -1,6 +1,12 @@
-# news_api_11_12
+# News App
 
-A new Flutter project.
+Developed a new application using Flutter, integrating the News API for real-time news updates.
+• Implemented seamless integration with the news API to fetch and display news articles.
+• Utilized Provider for efficient state management, ensuring a responsive and dynamic user experience
+• Implemented category filtering, allowing users to explore news based on their interests.
+• Ensured smooth transitions between different news categories with intuitive UI/UX design.
+• Create a responsive design to ensure a consistent and engaging user experience across various device
+sizes
 
 ## Getting Started
 
