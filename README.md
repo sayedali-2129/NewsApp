@@ -1,22 +1,45 @@
 # News App
 
-Developed a new application using Flutter, integrating the News API for real-time news updates.
-• Implemented seamless integration with the news API to fetch and display news articles.
-• Utilized Provider for efficient state management, ensuring a responsive and dynamic user experience
-• Implemented category filtering, allowing users to explore news based on their interests.
-• Ensured smooth transitions between different news categories with intuitive UI/UX design.
-• Create a responsive design to ensure a consistent and engaging user experience across various device
-sizes
+A Flutter application designed to provide real-time news updates by integrating the News API.
+
+## Features
+
+- **News API Integration:**
+  - Implemented seamless integration with the News API to fetch and display up-to-date news articles.
+
+- **Efficient State Management:**
+  - Utilized Provider for efficient state management, ensuring a responsive and dynamic user experience.
+
+- **Category Filtering:**
+  - Implemented category filtering, allowing users to explore news based on their interests.
+
+- **Intuitive UI/UX Design:**
+  - Ensured smooth transitions between different news categories with an intuitive UI/UX design.
+
+- **Responsive Design:**
+  - Created a responsive design to ensure a consistent and engaging user experience across various device sizes.
+
+## Technologies Used
+
+- **Flutter:**
+  - A UI toolkit for building natively compiled applications for mobile, web, and desktop.
+
+- **Provider:**
+  - Used for efficient state management.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with the project, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository.
+2. Install dependencies using `flutter pub get`.
+3. Run the application using `flutter run`.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Feel free to explore the codebase and customize the application according to your needs.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+<img src="https://github.com/sayedali-2129/NewsApp/assets/144669457/e06ac425-6d5f-4859-9276-295480765e03" width="100" height="100">
+<img src="https://github.com/sayedali-2129/NewsApp/assets/144669457/0f1644cd-821c-4a9c-a1e1-4ef6651f4e42" width="100" height="100">
+<img src="https://github.com/sayedali-2129/NewsApp/assets/144669457/f6b4def1-a646-4070-92e6-b5fd48e6c5e1" width="100" height="100">
+
