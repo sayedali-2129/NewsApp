@@ -39,7 +39,7 @@ Feel free to explore the codebase and customize the application according to you
 
 ## Screenshots
 
-<img src="https://github.com/sayedali-2129/NewsApp/assets/144669457/e06ac425-6d5f-4859-9276-295480765e03" width="100" height="100">
-<img src="https://github.com/sayedali-2129/NewsApp/assets/144669457/0f1644cd-821c-4a9c-a1e1-4ef6651f4e42" width="100" height="100">
-<img src="https://github.com/sayedali-2129/NewsApp/assets/144669457/f6b4def1-a646-4070-92e6-b5fd48e6c5e1" width="100" height="100">
+<img src="https://github.com/sayedali-2129/NewsApp/assets/144669457/e06ac425-6d5f-4859-9276-295480765e03" width="100" height="300">
+<img src="https://github.com/sayedali-2129/NewsApp/assets/144669457/0f1644cd-821c-4a9c-a1e1-4ef6651f4e42" width="100" height="300">
+<img src="https://github.com/sayedali-2129/NewsApp/assets/144669457/f6b4def1-a646-4070-92e6-b5fd48e6c5e1" width="100" height="300">
 
